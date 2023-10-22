@@ -1,7 +1,7 @@
 <?php
 
 class Mahasiswa_model {
-    private $dbh; // database handler
+    private $dbh;
     private $stmt; 
 
     public function __construct()
